@@ -3,7 +3,7 @@
 
 This is the repository for Protein2PAM: a deep learning framework to predict the PAM specificity of CRISPR systems from Cas proteins developed by [Profluent](https://www.profluent.bio/).
 
-The models and their applications are described in **Nayfach, S. et al.,** (2025). *Deep Learning Prediction and Customization of CRISPR-Cas PAMs Using Evolutionary Data.* bioRxiv. [https://doi.org/DOI](link).
+The models and their applications are described in **Nayfach, S. et al.,** (2025). *Engineering of CRISPR-Cas PAM recognition using deep learning of vast evolutionary data.* bioRxiv. [https://doi.org/10.1101/2025.01.06.631536](https://doi.org/10.1101/2025.01.06.631536).
 
 Protein2PAM is available via our webserver at: https://protein2pam.profluent.bio.
 
@@ -33,11 +33,11 @@ Below are the full listing of available models utilized in the manuscript and/or
 
 ## Cite this work
 
-If you use Protein2PAM in your research, please cite the following [preprint](url):
+If you use Protein2PAM in your research, please cite the following [preprint](https://doi.org/10.1101/2025.01.06.631536):
   
 ```bibtex
 @article{nayfach2025protein2pam,
-  title={Deep Learning Prediction and Customization of CRISPR-Cas PAMs Using Evolutionary Data},
+  title={Engineering of CRISPR-Cas PAM recognition using deep learning of vast evolutionary data},
   author={Stephen Nayfach and Aadyot Bhatnagar and Andrey Novichkov and Gabriella O. Estevam and Nahye Kim and Emily Hill and Jeffrey A. Ruffolo and Rachel Silverstein and Joseph Gallagher and Benjamin Kleinstiver and Alexander J. Meeske and Peter Cameron and Ali Madani},
   journal={bioRxiv},
   year={2025}
